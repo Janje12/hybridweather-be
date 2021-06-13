@@ -1,4 +1,4 @@
-# HybridWeather
+# HybridWeather Backend
 
 Backend solution made with Spring Boot for using and parsing data from https://openweathermap.org API. The application uses data from the 5 day weather forecast endpoint 
 (https://openweathermap.org/forecast5#cityid5) for 3 predetermined cities and makes endpoints for further handling with them.

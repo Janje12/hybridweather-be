@@ -29,6 +29,7 @@ Or use any modern IDE (Intellij, Eclipse, etc.) and just run it.
 
 ## TODO :books:
 
+:clipboard: Add unit and integration testing ❗❗❗
 :clipboard: Add more RuntimeExecptions for better error handling  
 :clipboard: Add a DTOs for all the models, especially the ApiResponseObject  
 :clipboard: Try and remove all for loops with streams/parralel-streams  

@@ -19,13 +19,13 @@ Or use any modern IDE (Intellij, Eclipse, etc.) and just run it.
 
 ## Functions :gear:
 
-:heavy_check_mark: Changeable APP_ID for openweather api in application.propreties  
-:heavy_check_mark: Changeable CITY_NAMES and COUNTRY_CODES in application.propreties  
-:heavy_check_mark: Changeable UNITS (metrics, imperial) which data is presented in application.propreties  
-:heavy_check_mark: REST endpoint for fetching all the cities  
-:heavy_check_mark: REST endpoint for fetching the average temeprature for all the cities  
-:heavy_check_mark: Average temperature endpoint can take query parameters for further customization on data sent  
-:heavy_check_mark: Average temperature endpoint auto sorted by temperature
+✅ Changeable APP_ID for openweather api in application.propreties  
+✅ Changeable CITY_NAMES and COUNTRY_CODES in application.propreties  
+✅ Changeable UNITS (metrics, imperial) which data is presented in application.propreties  
+✅ REST endpoint for fetching all the cities  
+✅ REST endpoint for fetching the average temeprature for all the cities  
+✅ Average temperature endpoint can take query parameters for further customization on data sent  
+✅ Average temperature endpoint auto sorted by temperature
 
 ## TODO :books:
 
